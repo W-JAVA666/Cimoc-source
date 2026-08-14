@@ -376,7 +376,7 @@
 	},
 	"PUFEIMH": {
 		"baseUrl": "http://m.pufei.cc",
-		"serverUrl": "http://res.img.tueqi.com/",
+		"serverUrl": "https://res.xiaoqinre.com/",
 		"search": "",
 		"searchInfoList": "#detail > li",
 		"searchInfoCid": "a",
@@ -502,7 +502,7 @@
 	},
 	"ANIMX2": "https://www.2animx.com",
 	"BAINIAN": "https://m.bnman.net",
-	"BUKA": "https://www.bukamh.org",
+	"BUKA": "https://www.bukamh.com",
 	"CARTOONMAD": "https://www.cartoonmad.com",
 	"CCMH": "",
 	"CCTUKU": "",
@@ -521,7 +521,7 @@
 	"DMZJFIXSERVER": "http://api.dmzj.com",
 	"DMZJV2": "http://m.dmzj1.com",
 	"DMZJV2PICTURE": "http://images.dmzj1.com/",
-	"DMZJV2SERVER": "http://v2.api.dmzj.com",
+	"DMZJV2SERVER": "https://v3api.idmzj.com",
 	"EHENTAI": "",
 	"EHENTAISERVER1": "",
 	"EHENTAISERVER2": "",
@@ -578,7 +578,7 @@
 		"parseCategoryInfoAuthor": "div.comic-creators",
 		"parseCategoryPath": "/list/a-%s-c-%s-t-%s-y-%s-i-%s-m-%s.html"
 	},
-	"MH57": "http://m.57mh.org/",
+	"MH57": "http://m.wuqimh.com",
 	"MH57SERVER": "http://imagesold.502215.com",
 	"MH160": "https://www.mh160mh.com",
 	"MH160SERVER1": "",
@@ -884,7 +884,7 @@
 		"serverUrl4": "https://marketing.aiacgn.com/api/v2/adopr/query3/?format=json&ident=200100001",
 		"serverCode": "/api/kb/web/searchbg/comics",
 		"serverCode2": "/api/v3/search/comic",
-		"serverCodeversion": "2025.11.21"
+		"serverCodeversion": "2026.8.14"
 	},
 	"backup_update": "https://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json",
 	"update_backup_my": "https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json"
