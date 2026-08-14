@@ -171,7 +171,7 @@
 		"imageUrl": "/qiniu/vomic/otherImg/"
 	},
 	"TUHAOMHV2": {
-		"baseUrl": "https://www.tuho123.com"
+		"baseUrl": "https://www.toho123.com"
 	},
 	"LAIMH": {
 		"baseUrl": "https://www.laimanhua88.com",
@@ -184,7 +184,7 @@
 		]
 	},
 	"GUOGUOMH": {
-		"baseUrl": "https://d9zfb53b.lstool.xyz"
+		"baseUrl": "https://www.guoguomh.com"
 	},
 	"KUMANWU": {
 		"baseUrl": "http://www.kumwu2.com"
@@ -523,18 +523,18 @@
 	"DMZJV2PICTURE": "http://images.dmzj1.com/",
 	"DMZJV2SERVER": "http://v2.api.dmzj.com",
 	"EHENTAI": "",
-	"EHENTAISERVER1": "http://ehgt.org/",
-	"EHENTAISERVER2": "http://g.e-hentai.org",
+	"EHENTAISERVER1": "",
+	"EHENTAISERVER2": "",
 	"EHENTAIINFOCOVER": "https://github.com/Haleydu/Cimoc/raw/release-tci/screenshot/icon.png",
 	"GUFENG": "https://m.gufengmh9.com",
 	"GUFENGSERVER": "",
-	"HHXXEE": "",
-	"HOTMANGA": "",
+	"HHXXEE": "https://www.hhxxee.com",
+	"HOTMANGA": "https://www.manga2024.com/",
 	"HOTMANGASERVER": "https://mapi.hotmangasg.com",
 	"IKANMAN": "https://www.manhuagui.com",
 	"IKANMANTW": "https://tw.manhuagui.com",
 	"IKANMANSERVER": "https://i.hamreus.com",
-	"JMTT": "",
+	"JMTT": "https://18comic-phliu.org",
 	"BASEURLHLV2": {
 		"baseUrl": "PyhLDL/o0X0uZzEBUQQsjNDF3D+J6d33YRxE1rMnpuw=",
 		"serverUrl": "PyhLDL/o0X0uZzEBUQQsjNDF3D+J6d33YRxE1rMnpuw="
@@ -587,13 +587,13 @@
 	"MH517": "http://m.517manhua.com",
 	"MHLOVE": "",
 	"MIGU": "http://www.migudm.cn",
-	"OHMANHUA": "https://www.cocomanga.com",
+	"OHMANHUA": "https://www.colamanhua.com",
 	"OHMANHUARATELIMIT": 800,
 	"PUFEI": "http://m.pufei.cc",
 	"PUFEISERVER": "",
 	"QIMANWU": "https://cn.zhuzhumh.com",
 	"QIMIAOMH": "https://www.qimiaomh.com",
-	"SIXMH": "http://sixmh7.com",
+	"SIXMH": "",
 	"TENCENT": "http://ac.qq.com",
 	"TENCENTM": "https://m.ac.qq.com",
 	"TUHAO": "https://www.kawazhuyy.com",
