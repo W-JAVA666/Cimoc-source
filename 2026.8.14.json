@@ -33,14 +33,7 @@
 	"HAODUOMAN": {
 		"baseUrl": "https://www.haoduoman.com"
 	},
-	"MANHUA36": {
-		"baseUrl": "",
-		"search": "",
-		"imageUrl": "",
-		"categoryUrl": "",
-		"hostOne": "",
-		"hostTwo": ""
-	},
+	"MANHUA36": "",
 	"KOMIIC": {
 		"baseUrl": "https://komiic.com",
 		"serverUrl": ""
@@ -67,14 +60,10 @@
 		"serverUrl": "http://static.yangpujiu.top",
 		"imgServerUrl": "http://img.yangpujiu.top"
 	},
-	"KUMANXIONG": {
-		"baseUrl": "",
-		"serverUrl": "",
-		"imgServerUrl": ""
-	},
+	"KUMANXIONG": "",
 	"MANHUA90": {
 		"baseUrl": "https://www.90mh.org",
-		"serverUrl": "http://js100.haotu90.top"
+		"serverUrl": ""
 	},
 	"BAOZIV2": {
 		"baseUrl": "https://m.baozimh.one",
@@ -163,9 +152,7 @@
 	"XMANHUA": {
 		"baseUrl": "https://xmanhua.com"
 	},
-	"VOMIC": {
-		"baseUrl": ""
-	},
+	"VOMIC": "",
 	"VOMIC2": {
 		"baseUrl": "http://www.vomicmh.com",
 		"imageUrl": "/qiniu/vomic/otherImg/"
@@ -579,7 +566,7 @@
 		"parseCategoryPath": "/list/a-%s-c-%s-t-%s-y-%s-i-%s-m-%s.html"
 	},
 	"MH57": "http://m.wuqimh.com",
-	"MH57SERVER": "http://imagesold.502215.com",
+	"MH57SERVER": "",
 	"MH160": "https://www.mh160mh.com",
 	"MH160SERVER1": "",
 	"MH160SERVER2": "",
@@ -596,13 +583,13 @@
 	"SIXMH": "",
 	"TENCENT": "http://ac.qq.com",
 	"TENCENTM": "https://m.ac.qq.com",
-	"TUHAO": "https://www.kawazhuyy.com",
+	"TUHAO": "",
 	"U17": "http://www.u17.com",
 	"U17_SO": "",
 	"WEBTOON": "https://m.webtoons.com",
 	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
 	"YKMH": "http://wap.ykmh.com/",
-	"YKMH_SERVER": "http://js.haotuyk.top",
+	"YKMH_SERVER": "",
 	"YYLS": "",
 	"KUAIKANMANHUA": "",
 	"KUAIKANMANHUASERVER": "",
@@ -813,7 +800,7 @@
 	},
 	"YouKuManHua": {
 		"baseUrl": "https://m.ykmh.net",
-		"serverUrl": "http://js.haotuyk.top"
+		"serverUrl": ""
 	},
 	"XinXinManHua": {
 		"baseUrl": "https://so.77mh.in",
@@ -877,15 +864,39 @@
 		"serverUrl": "https://api-get-v2.mgsearcher.com"
 	},
 	"CopyManHua": {
-		"baseUrl": "https://www.2026copy.com",
-		"serverUrl": "https://www.2026copy.com",
+		"baseUrl": "https://www.mangacopy.com",
+		"serverUrl": "https://www.mangacopy.com",
 		"serverUrl2": "https://mapi.copy2000.site",
 		"serverUrl3": "https://api.copy2000.online",
 		"serverUrl4": "https://marketing.aiacgn.com/api/v2/adopr/query3/?format=json&ident=200100001",
 		"serverCode": "/api/kb/web/searchbg/comics",
 		"serverCode2": "/api/v3/search/comic",
-		"serverCodeversion": "2026.8.14"
+		"serverCodeversion": "2025.11.21"
 	},
 	"backup_update": "https://www.cimoc.top/cimoc/sourc/master/raw/sourceBaseUrl.json",
-	"update_backup_my": "https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json"
+	"update_backup_my": "https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json",
+	"MangaDex": {
+		"baseUrl": "https://mangadex.org",
+		"serverUrl": "https://mangadex.org/covers",
+		"search": "/titles?q=%s&page=%d",
+		"searchInfoList": "div.manga-card.dense",
+		"searchInfoCid": "div.manga-card-cover > a",
+		"searchInfoTitle": "a > span",
+		"searchInfoCover": "div.manga-card-cover > a > img",
+		"searchInfoAuthor": "span.author",
+		"searchInfoUpdate": "",
+		"parseInfoTitle": "div.title > p.mb-1",
+		"parseInfoCover": "div.layout-container > div:child(3) > div > a > img[alt]",
+		"parseInfoIntro": "div.layout-container > div:nth-last-child(2) > div > div > div > div:first-child > div",
+		"parseInfoAuthor": "div.layout-container > div:last-child > div:nth-child(2) > div:first-child > div:nth-child(2) > a > span",
+		"parseInfoUpdate": "div.chapter:first-of-type:has(div > a > a:first-child > img[title=\"English\"]) > div > a div.timestamp > time",
+		"parseInfoStatus": "div.chapter:first-of-type:has(div > a > a:first-child > img[title=\"English\"]) > div > a div.timestamp > time",
+		"parseChapterList1": "div.chapter:has(div > a > a:first-child > img[title=\"English\"]) a",
+		"parseChapterList2": "div.chapter a",
+		"parseChapterPath": "",
+		"parseChapterTitle": "a[title]",
+		"parseImageList": "",
+		"parseImageUrl": "",
+		"parseCategoryPath": ""
+	}
 }
