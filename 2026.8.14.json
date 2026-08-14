@@ -15,9 +15,6 @@
 	"MANHUAYU": {
 		"baseUrl": "https://www.manhuayu88.com"
 	},
-	"RUMANHUA": {
-		"baseUrl": "http://rumanhua2.com"
-	},
 	"HAODUOMAN": {
 		"baseUrl": "https://www.haoduoman.com"
 	},
@@ -287,14 +284,34 @@
 	"BUKA": "https://www.bukamh.org",
 	"DM5": "https://m.dm5.com",
 	"DMZJ": "http://m.dmzj.com",
-	"DMZJSEARCH": "http://s.acg.dmzj.com",
 	"DMZJSERVER": "http://v3api.dmzj.com",
 	"DMZJFIX": "https://www.wmh1234.com",
+	"EHENTAI": "",
+	"EHENTAISERVER1": "",
+	"EHENTAISERVER2": "",
+	"EHENTAIINFOCOVER": "",
+	"HHXXEE": "",
+	"HOTMANGA": "",
+	"HOTMANGASERVER": "",
+	"JMTT": "",
+	"BASEURLHLV2": {
+		"baseUrl": "PyhLDL/o0X0uZzEBUQQsjNDF3D+J6d33YRxE1rMnpuw=",
+		"serverUrl": "PyhLDL/o0X0uZzEBUQQsjNDF3D+J6d33YRxE1rMnpuw="
+	},
+	"BASEURLJMV2": {
+		"updateUrl": "https://stevenyomi.github.io/source-domains/jmcomic.txt",
+		"baseUrl": "DbW/7c+yB4mmImuQQX9dq4cDxS8H1GrpzUc7FeY2ET0="
+	},
+	"MANGAKAKALOT": "",
+	"MANGANEL": "",
 	"MANHUADB": "https://www.manhua666.cc",
 	"MANHUATAI": "https://www.kanman.com",
 	"MANHUATAIPIC": "https://m.kanman.com",
 	"MH57SERVER": "http://imagesold.502215.com",
 	"MH160": "https://www.mh160mh.com",
+	"MHLOVE": "",
+	"OHMANHUA": "",
+	"OHMANHUARATELIMIT": 800,
 	"PUFEI": "http://m.pufei.cc",
 	"TENCENT": "http://ac.qq.com",
 	"TENCENTM": "https://m.ac.qq.com",
@@ -303,7 +320,12 @@
 	"WEBTOON": "https://m.webtoons.com",
 	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
 	"YKMH_SERVER": "http://js.haotuyk.top",
+	"YYLS": "",
+	"KUAIKANMANHUA": "",
 	"KUAIKANMANHUASERVER": "https://api.kkmh.com",
+	"HHAAZZ": "",
+	"HHAAZZ_SW": "",
+	"JOYHENTAI": "",
 	"BAOZIMH": {
 		"baseUrl": "https://cn.baozimhcn.com",
 		"appUrl": "https://appcn.baozimh.com",
@@ -361,9 +383,6 @@
 		"parseCategoryInfoUpdate": "",
 		"parseCategoryPath": "/manhua/category/%s_%s_-1_%s_1/"
 	},
-	"WNACG": {
-		"updateUrl": "https://stevenyomi.github.io/source-domains/wnacg.txt"
-	},
 	"BaoziManHua": {
 		"baseUrl": "https://cn.baozimhcn.com",
 		"appUrl": "https://appcn.baozimh.com",
@@ -420,5 +439,6 @@
 		"imgServerUrl2": "https://t40-1-4.g-mh.online",
 		"serverUrl": "https://api-get-v2.mgsearcher.com"
 	},
+	"backup_update": "https://haleytesla.top/cimoc/sourceBaseUrl.json",
 	"update_backup_my": "https://raw.githubusercontent.com/haleydu-test/cimocUpdate/main/sourceBaseUrl.json"
 }
