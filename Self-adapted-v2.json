@@ -41,10 +41,6 @@
 		"baseUrl": "https://www.dashumanhua.com",
 		"serverUrl": ""
 	},
-	"YOUMANHUAWU": {
-		"baseUrl": "https://www.umh5.com",
-		"serverUrl": ""
-	},
 	"BIQUGE": {
 		"baseUrl": "https://www.biqu8.xyz",
 		"serverUrl": ""
@@ -68,9 +64,6 @@
 		"imgServerUrl1": "https://f40-1-4.g-mh.online",
 		"imgServerUrl2": "https://t40-1-4.g-mh.online",
 		"serverUrl": "https://api-get-v2.mgsearcher.com"
-	},
-	"SUMANKU": {
-		"baseUrl": "http://www.sumanku.com"
 	},
 	"GODAMH": {
 		"baseUrl": "https://m.g-mh.org",
@@ -116,30 +109,6 @@
 		"SERVER1": "https://mhpic5.kingwar.cn",
 		"SERVER2": "https://mhpic6.tgmhfc.uk"
 	},
-	"MANHUAWU": {
-		"baseUrl": "https://www.mhua5.com",
-		"serverUrl": "",
-		"search": "/search/%s/%d",
-		"searchInfoList": "ul.comic-sort > li.item.comic-item",
-		"searchInfoCid": "a",
-		"searchInfoTitle": "p.title",
-		"searchInfoCover": "img",
-		"searchInfoAuthor": "",
-		"searchInfoUpdate": "span.chapter",
-		"parseInfoTitle": "h1.name",
-		"parseInfoCover": "div.comic-cover > img.thumb",
-		"parseInfoIntro": "p.comic-describe",
-		"parseInfoAuthor": "",
-		"parseInfoUpdate": "div.update-time",
-		"parseInfoStatus": "div.update-time",
-		"parseChapterList1": "ul.catalog-list > li > div > a",
-		"parseChapterList2": "",
-		"parseChapterPath": "",
-		"parseChapterTitle": "",
-		"parseImageList": "ul.comic-list li.comic-page img",
-		"parseImageUrl": "data-echo",
-		"parseCategoryPath": "/category/%s/page/%d"
-	},
 	"BOLEMH": {
 		"baseUrl": "https://bbboy.cc"
 	},
@@ -154,9 +123,6 @@
 		"baseUrl": "http://www.vomicmh.com",
 		"imageUrl": "/qiniu/vomic/otherImg/"
 	},
-	"TUHAOMHV2": {
-		"baseUrl": "https://www.toho123.com"
-	},
 	"LAIMH": {
 		"baseUrl": "https://www.laimanhua88.com",
 		"server": [
@@ -166,12 +132,6 @@
 			"mhpicwwt.tgmhfc.uk",
 			"mhpicwwx.tgmhfc.uk"
 		]
-	},
-	"GUOGUOMH": {
-		"baseUrl": "https://d9zfb53b.lstool.xyz"
-	},
-	"KUMANWU": {
-		"baseUrl": "http://www.kumwu2.com"
 	},
 	"YOUDM": {
 		"baseUrl": "https://www.udm123.com"
@@ -554,7 +514,6 @@
 	},
 	"MH57": "http://m.wuqimh.com",
 	"MH160": "https://www.mh160mh.com",
-	"MH517": "http://m.517manhua.com",
 	"MIGU": "http://www.migudm.cn",
 	"OHMANHUA": "https://www.colamanhua.com",
 	"OHMANHUARATELIMIT": 800,
@@ -1141,9 +1100,6 @@
 	"BILIPLUS": {
 		"baseUrl": "https://www.biliplus.com/manga"
 	},
-	"WELOVEMANGA": {
-		"baseUrl": "https://welovemanga.one"
-	},
 	"KLMNGA": {
 		"baseUrl": "https://klmanga.com"
 	},
@@ -1159,17 +1115,11 @@
 	"ROUMH": {
 		"baseUrl": "https://m.roumh.com"
 	},
-	"BX117": {
-		"baseUrl": "http://m.bx117.com"
-	},
 	"SISIMANHUA": {
 		"baseUrl": "https://m.sisimanhua.com"
 	},
 	"MANHUA168": {
 		"baseUrl": "https://m.168manhua.com"
-	},
-	"MHKAN": {
-		"baseUrl": "https://www.mhkan.com"
 	},
 	"BIQUGEMH": {
 		"baseUrl": "https://www.23biquge.com"
