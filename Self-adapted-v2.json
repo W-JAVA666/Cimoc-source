@@ -33,7 +33,6 @@
 	"HAODUOMAN": {
 		"baseUrl": "https://www.haoduoman.com"
 	},
-	"MANHUA36": "",
 	"KOMIIC": {
 		"baseUrl": "https://komiic.com",
 		"serverUrl": ""
@@ -60,7 +59,6 @@
 		"serverUrl": "http://static.yangpujiu.top",
 		"imgServerUrl": "http://img.yangpujiu.top"
 	},
-	"KUMANXIONG": "",
 	"MANHUA90": {
 		"baseUrl": "https://www.90mh.org",
 		"serverUrl": ""
@@ -152,7 +150,6 @@
 	"XMANHUA": {
 		"baseUrl": "https://xmanhua.com"
 	},
-	"VOMIC": "",
 	"VOMIC2": {
 		"baseUrl": "http://www.vomicmh.com",
 		"imageUrl": "/qiniu/vomic/otherImg/"
@@ -491,10 +488,7 @@
 	"BAINIAN": "https://m.bnman.net",
 	"BUKA": "https://www.bukamh.com",
 	"CARTOONMAD": "https://www.cartoonmad.com",
-	"CCMH": "",
-	"CCTUKU": "",
 	"CHUIXUE": "http://www.chuixue.net",
-	"CHUIXUESERVER": "",
 	"CHUIYAO": "http://m.chuiyao.com",
 	"COPYMH": "https://www.copy20.com",
 	"COPYMHSERVER": "https://www.copy20.com/api/kb/web/searchbg/comics",
@@ -509,12 +503,7 @@
 	"DMZJV2": "http://m.dmzj1.com",
 	"DMZJV2PICTURE": "http://images.dmzj1.com/",
 	"DMZJV2SERVER": "https://v3api.idmzj.com",
-	"EHENTAI": "",
-	"EHENTAISERVER1": "",
-	"EHENTAISERVER2": "",
-	"EHENTAIINFOCOVER": "",
 	"GUFENG": "https://m.gufengmh9.com",
-	"GUFENGSERVER": "",
 	"HHXXEE": "https://www.hhxxee.com",
 	"HOTMANGA": "https://www.manga2024.com/",
 	"HOTMANGASERVER": "https://mapi.hotmangasg.com",
@@ -531,8 +520,6 @@
 		"baseUrl": "DbW/7c+yB4mmImuQQX9dq4cDxS8H1GrpzUc7FeY2ET0="
 	},
 	"MANGABZ": "https://www.mangabz.com",
-	"MANGAKAKALOT": "",
-	"MANGANEL": "",
 	"MANHUADB": "https://www.manhua666.cc",
 	"MANHUATAI": "https://m.manhuatai.com/",
 	"MANHUATAIPIC": "https://m.kanman.com",
@@ -566,36 +553,20 @@
 		"parseCategoryPath": "/list/a-%s-c-%s-t-%s-y-%s-i-%s-m-%s.html"
 	},
 	"MH57": "http://m.wuqimh.com",
-	"MH57SERVER": "",
 	"MH160": "https://www.mh160mh.com",
-	"MH160SERVER1": "",
-	"MH160SERVER2": "",
-	"MH160SERVER3": "",
 	"MH517": "http://m.517manhua.com",
-	"MHLOVE": "",
 	"MIGU": "http://www.migudm.cn",
 	"OHMANHUA": "https://www.colamanhua.com",
 	"OHMANHUARATELIMIT": 800,
 	"PUFEI": "http://m.pufei.cc",
-	"PUFEISERVER": "",
 	"QIMANWU": "https://cn.zhuzhumh.com",
 	"QIMIAOMH": "https://www.qimiaomh.com",
-	"SIXMH": "",
 	"TENCENT": "http://ac.qq.com",
 	"TENCENTM": "https://m.ac.qq.com",
-	"TUHAO": "",
 	"U17": "http://www.u17.com",
-	"U17_SO": "",
 	"WEBTOON": "https://m.webtoons.com",
 	"WEBTOONDONGMANMANHUA": "https://www.dongmanmanhua.cn",
 	"YKMH": "http://wap.ykmh.com/",
-	"YKMH_SERVER": "",
-	"YYLS": "",
-	"KUAIKANMANHUA": "",
-	"KUAIKANMANHUASERVER": "",
-	"HHAAZZ": "",
-	"HHAAZZ_SW": "",
-	"JOYHENTAI": "",
 	"BAOZIMH": {
 		"baseUrl": "https://cn.baozimhcn.com",
 		"appUrl": "https://appcn.baozimh.com",
@@ -625,7 +596,6 @@
 		"parseChapterTitle": "span",
 		"parseCategoryPath": "/classify?type=%s&region=%s&state=%s&filter=%s"
 	},
-	"YIMMH": "",
 	"DUMH": {
 		"baseUrl": "https://m.7stary.com",
 		"search": "/search/?keywords=%s",
@@ -794,7 +764,6 @@
 		"baseUrl": "https://www.colamanhua.com",
 		"search": "/search?searchString="
 	},
-	"YiManHua": "",
 	"MangaBZManHua": {
 		"baseUrl": "http://www.mangabz.com"
 	},
@@ -1225,5 +1194,14 @@
 	},
 	"MH522": {
 		"baseUrl": "http://m.522manhua.com"
+	},
+	"MXSM": {
+		"baseUrl": "https://www.mxshm.top"
+	},
+	"CCCTW": {
+		"baseUrl": "https://www.creative-comic.tw"
+	},
+	"COMICWALKER": {
+		"baseUrl": "https://comic-walker.com"
 	}
 }
